@@ -1,5 +1,5 @@
 
-STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems is an ensemble of easy-to-run codes for nonlinear dynamic analysis of vibration energy harvesting systems. It encompasses several tools to simulate, control and visualize their dynamics, and provides a broad and robust framework for numerical experimentation.
+# FORMERLY-Math: Constrained Form Finding through Membrane Equilibrium Analysis in Mathematica
 
 ## Documentation
 
@@ -7,50 +7,33 @@ STONEHENGE modules are commented in order to explain their functionality to the 
 
 ## Software History
 
-This suite is an ensemble of codes developed to conduct nonlinear analysis on a bistable piezoelectric-magneto-elastic energy harvester.
+This suite is an example of codes developed to conduct the constrained form-finding of unilateral membranes that can be applied for the design of new shell structures or for the static assessment of masonry vaults in the frame of Limit Analysis.
 
 The underlying results are reported in the following publications:
 
-- J. P. Norenberg, A. Cunha Jr, S. da Silva and P. S. Varoto, Global sensitivity analysis of (a)symmetric energy harvesters, Nonlinear Dynamics, vol. 109, pp. 443-458, 2022
-- J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, vol. 10 pp. 100161, 2021
-- V. G. Lopes, J. V. L. L. Peterson, and A. Cunha Jr, The nonlinear dynamics of a bistable energy harvesting system with colored noise disturbances, Journal of Computational Interdisciplinary Sciences, vol. 10, pp. 125, 2019
+- C. Olivieri, S. Cocking, M. Angelillo, M. J. DeJong, Investigation of the response of a masonry arch railway bridge using membrane equilibrium analysis, 12th International Conference on Structural Analysis of Historical Constructions, SAHC 2021, Barcellona, Spain„ 2021.
+- C. Olivieri, A. Fortunato, M. DeJong, A new membrane equilibrium solution for masonry railway bridges: The case study of marsh lane bridge, International Journal of Masonry Research and Innovation 6 (4) (2021) 446–471.
+- C. Olivieri, M. Angelillo, A. Gesualdo, A. Iannuzzo, A. Fortunato, Parametric design of purely compressed
+shells, Mechanics of Materials 155 (2021) 103782
+- C. Olivieri, A. Montanino, A. Iannuzzo, I. Elia, F. L. Perelli, S. Adriaenssens, A continuous stress-based form finding approach for compressed membranes, International Journal of Masonry Research and Innovation (in press).
+
+
 
 ## Reproducibility
 
-Simulations done with STONEHENGE are fully reproducible, as can be seen on this CodeOcean capsule
+Simulations done with FORMERLY-Math are fully reproducible
 
 ## Authors
 
-João Pedro C. V. Norenberg
-João Victor L. L. Peterson
-Vinicius G. Lopes
-Roberto Luo
-Leonardo de la Roca
-Marcelo Pereira
-José Geraldo Telles Ribeiro
-Americo Cunha Jr
+Carlo Olivieri
 
 
-## Citing STONEHENGE
+## Citing FORMERLY-Math
 
-We kindly ask users to cite the following reference in any publications reporting work done with STONEHENGE:
-
-- J. P. Norenberg, J. V. L. L. Peterson, V. G. Lopes, R. Luo, L. de la Roca, M. Pereira, J. G. Telles Ribeiro, A. Cunha Jr, STONEHENGE - Suite for Nonlinear Analysis of Energy Harvesting Systems, Software Impacts, 10:100161, 2021 http://dx.doi.org/10.1016/j.simpa.2021.100161
-
-
-@article{STONEHENGE2021,
-   author       = {J. P. Norenberg and J. V. L. L. Peterson and V. G. Lopes and R. Luo and L. de la Roca and M. Pereira and J. G. {Telles Ribeiro} and A. Cunha Jr},
-   title        = { {STONEHENGE} - {S}uite for {N}onlinear {A}nalysis of {E}nergy {H}arvesting {S}ystems},
-   year         = {2021},
-   journal      = {Software Impacts},
-   volume.      = {10},
-   pages        = {100161},
-   note         = {http://dx.doi.org/10.1016/j.simpa.2021.100161},
-}
+We kindly ask users to cite the following reference in any publications reporting work done with FORMERLY-Math:
 
 
 ## License
 
-STONEHENGE is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+FORMERLY-Math is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
-## Funding
