@@ -23,7 +23,7 @@ shells, Mechanics of Materials 155 (2021) 103782
 
 Simulations done with FORMERLY-Math are fully reproducible
 
-## Authors
+## Author
 
 Carlo Olivieri
 
@@ -32,6 +32,9 @@ Carlo Olivieri
 
 We kindly ask users to cite the following reference in any publications reporting work done with FORMERLY-Math:
 
+- C. Olivieri, M. Angelillo, A. Gesualdo, A. Iannuzzo, A. Fortunato, Parametric design of purely compressed
+shells, Mechanics of Materials 155 (2021) 103782
+- C. Olivieri, A. Montanino, A. Iannuzzo, I. Elia, F. L. Perelli, S. Adriaenssens, A continuous stress-based form finding approach for compressed membranes, International Journal of Masonry Research and Innovation (in press).
 
 ## License
 
